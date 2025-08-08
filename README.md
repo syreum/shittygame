@@ -2,7 +2,7 @@
 
 **script for a shitty game called Strafe on roblox**
 
-# Functions
+# Features
 
 - **Godmode (sometimes bug when u fall into void**
 - **Exp Giver**
